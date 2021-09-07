@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Ege">
+  <ClassDiagramComponents>
+    <Class name="Ece" package="" visibility="publıc" xPosition="289.0" yPosition="216.0">
+      <Fields>
+        <Field name="asd" type="Object" visibility="prıvate"/>
+        <Field name="asdasd" type="Object" visibility="prıvate"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="untitledMethod" returnType="void" visibility="publıc"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
